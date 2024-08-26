@@ -96,4 +96,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**
 
-For any questions or feedback, please contact [tejnaren07@gmail.com].
+For any questions or feedback, please contact [tejaaswini.narendran@gwu.edu] or [akshay.nayak@gwu.edu].
