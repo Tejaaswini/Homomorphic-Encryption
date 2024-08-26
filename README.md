@@ -22,8 +22,8 @@ Before running the project, ensure you have the following installed:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/homomorphic-encryption-example.git
-cd homomorphic-encryption-example
+git clone https://github.com/Tejaaswini/Homomorphic-Encryption
+cd Homomorphic-Encryption
 ```
 
 ### **2. Install Microsoft SEAL**
