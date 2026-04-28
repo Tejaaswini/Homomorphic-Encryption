@@ -94,6 +94,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Microsoft SEAL:** This project uses the Microsoft SEAL library for homomorphic encryption. Special thanks to the SEAL team for their excellent work.
 
-## **Contact**
-
-For any questions or feedback, please contact [tejaaswini.narendran@gwu.edu] or [akshay.nayak@gwu.edu] or [harish.kannan@gwu.edu].
